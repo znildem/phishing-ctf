@@ -1,0 +1,25 @@
+2026-10-20 07:58:12 from=dispatch@northbeamfreight.test to=ops@quillmarsh.test subject="Load confirmation #88213" action=delivered
+2026-10-20 08:03:47 from=j.okafor@quillmarsh.test to=all-staff@quillmarsh.test subject="Monday safety briefing" action=delivered
+2026-10-20 08:15:30 from=invoices@palmettocargo.test to=ap@quillmarsh.test subject="Invoice PC-20419" action=delivered
+2026-10-20 08:41:09 from=noreply@brightwaterpayroll.test to=hr@quillmarsh.test subject="Payroll run scheduled" action=delivered
+2026-10-20 09:02:55 from=support@coralbayit.test to=it@quillmarsh.test subject="Ticket #5531 updated" action=delivered
+2026-10-20 09:27:14 from=sales@keystonepallet.test to=purchasing@quillmarsh.test subject="Q4 pallet pricing" action=delivered
+2026-10-20 10:11:38 from=m.chen@quillmarsh.test to=ops@quillmarsh.test subject="Dock 4 schedule change" action=delivered
+2026-10-20 10:46:02 from=alerts@tidelinefuel.test to=fleet@quillmarsh.test subject="Fuel card statement" action=delivered
+2026-10-20 11:20:57 from=claims@oakridgeinsurance.test to=risk@quillmarsh.test subject="Claim OR-7712 status" action=delivered
+2026-10-20 13:05:44 from=promo@lumenoffice.test to=admin@quillmarsh.test subject="Office supply deals" action=quarantined
+2026-10-20 13:48:19 from=dispatch@meridiantrucking.test to=ops@quillmarsh.test subject="Driver ETA update" action=delivered
+2026-10-20 14:22:06 from=notices@saltmeadowbank.test to=finance@quillmarsh.test subject="Wire confirmation" action=delivered
+2026-10-20 15:39:51 from=it-support@quillrnarsh.test to=a.ruiz@quillmarsh.test subject="Action required: re-verify your account" action=delivered
+2026-10-20 16:10:23 from=dispatch@northbeamfreight.test to=ops@quillmarsh.test subject="Load confirmation #88247" action=delivered
+2026-10-20 16:55:40 from=r.patel@quillmarsh.test to=it@quillmarsh.test subject="Printer on 2nd floor" action=delivered
+2026-10-21 07:44:18 from=invoices@palmettocargo.test to=ap@quillmarsh.test subject="Invoice PC-20433" action=delivered
+2026-10-21 08:09:02 from=support@coralbayit.test to=it@quillmarsh.test subject="Patch window reminder" action=delivered
+2026-10-21 08:36:45 from=noreply@brightwaterpayroll.test to=hr@quillmarsh.test subject="Timesheet deadline" action=delivered
+2026-10-21 09:14:27 from=j.okafor@quillmarsh.test to=managers@quillmarsh.test subject="Staffing for peak season" action=delivered
+2026-10-21 09:52:33 from=sales@keystonepallet.test to=purchasing@quillmarsh.test subject="Re: Q4 pallet pricing" action=delivered
+2026-10-21 10:31:10 from=it-support@quillrnarsh.test to=d.brooks@quillmarsh.test subject="Action required: re-verify your account" action=delivered
+2026-10-21 11:03:58 from=alerts@tidelinefuel.test to=fleet@quillmarsh.test subject="Price alert" action=delivered
+2026-10-21 11:47:21 from=dispatch@meridiantrucking.test to=ops@quillmarsh.test subject="Trailer swap request" action=delivered
+2026-10-21 12:25:09 from=promo@lumenoffice.test to=admin@quillmarsh.test subject="Last chance: 20% off" action=quarantined
+2026-10-21 13:18:44
