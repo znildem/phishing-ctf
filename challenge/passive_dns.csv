@@ -1,0 +1,17 @@
+first_seen,last_seen,domain,type,value
+2024-03-11,2026-10-22,quillmarsh.test,A,198.51.100.20
+2024-03-11,2026-10-22,quillmarsh.test,MX,mail.quillmarsh.test
+2024-03-11,2026-10-22,mail.quillmarsh.test,A,198.51.100.25
+2023-08-02,2026-10-22,northbeamfreight.test,A,203.0.113.14
+2022-11-19,2026-10-22,palmettocargo.test,A,192.0.2.47
+2023-01-05,2026-10-22,brightwaterpayroll.test,A,203.0.113.88
+2021-06-30,2026-10-21,coralbayit.test,A,192.0.2.130
+2024-02-14,2026-10-22,keystonepallet.test,A,198.51.100.73
+2022-09-08,2026-10-22,tidelinefuel.test,A,203.0.113.152
+2020-04-17,2026-10-22,oakridgeinsurance.test,A,192.0.2.201
+2025-05-21,2026-10-21,lumenoffice.test,A,198.51.100.164
+2023-10-03,2026-10-22,meridiantrucking.test,A,203.0.113.36
+2019-12-12,2026-10-22,saltmeadowbank.test,A,192.0.2.9
+2026-10-18,2026-10-22,quillrnarsh.test,A,10.10.0.66
+2026-10-18,2026-10-22,quillrnarsh.test,MX,mail.quillrnarsh.test
+2026-10-18,2026-10-22,mail.quillrnarsh.test,A,10.10.0.66

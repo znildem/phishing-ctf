@@ -26,6 +26,11 @@ You have been given an export of recent sender domains from the company's mail g
 
 `mail\_gateway.log`
 
+The Threat Intel team also provided a passive DNS export for domains seen in recent traffic:
+`passive_dns.csv`
+
+The CTF lab network in scope is: `10.10.0.0/24`
+
 
 
 \## Your task
