@@ -1,0 +1,32 @@
+services:
+  analyst:
+    build: ./analyst
+    container_name: qm-analyst
+    hostname: analyst
+    networks:
+      ctfnet:
+        ipv4_address: 10.10.0.10
+    volumes:
+      - ../challenge:/home/analyst/challenge:ro
+    cap_add:
+      - NET_RAW
+      - NET_ADMIN
+    stdin_open: true
+    tty: true
+
+  mail:
+    build: ./attacker
+    container_name: mail.quillrnarsh
+    hostname: mail
+    networks:
+      ctfnet:
+        ipv4_address: 10.10.0.66
+
+networks:
+  ctfnet:
+    name: lab
+    driver: bridge
+    internal: true
+    ipam:
+      config:
+        - subnet: 10.10.0.0/24
