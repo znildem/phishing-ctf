@@ -10,17 +10,18 @@ internal Docker network with no internet access and no ports published to the ho
 - Docker Desktop (with Docker Compose)
 
 ## Start the lab
-
+~~~
 cd infra
 docker compose up -d --build
 docker exec -it qm-analyst bash
-
+~~~
 The challenge files are in `~/challenge`. Start with `BRIEF.md`.
 
 ## Stop the lab
+~~~
 cd infra
 docker compose down
-
+~~~
 
 ## Repository layout
 - `challenge/` - files given to participants
